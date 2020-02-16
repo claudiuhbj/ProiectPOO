@@ -55,7 +55,7 @@ public class Main {
 		System.out.println("Nr etaje: " + apartament.getnrEtaje());
 		System.out.println("Pret apartament: " + apartament.getpret());
 		
-		Imobil vila = new Imobil ("Lux", 2, 150000.0);
+		Imobil vila = new Imobil ("Lux", 2, 180000.0);
 		vila.gettipCasa();
 		
 		Imobil garsoniera = new Imobil (1, 60000.0);
